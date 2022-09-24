@@ -11,11 +11,11 @@ import com.example.practical3.databinding.ActivitySecondMainBinding.inflate
 import com.google.android.material.bottomnavigation.BottomNavigationView
 import androidx.appcompat.widget.Toolbar
 import com.example.practical3.databinding.ActivityMainBinding
-lateinit var signup_link: TextView
+
 class MainActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityMainBinding
-
+    lateinit var signup_link: TextView
 
     override fun onCreate(savedInstanceState: Bundle?) {
         WindowCompat.setDecorFitsSystemWindows(window, false)
