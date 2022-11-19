@@ -1,13 +1,11 @@
-package com.example.practical3
+package com.example.practical3_1110
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.EditText
 import android.widget.TextView
 import androidx.core.view.WindowCompat
-import com.example.practical3.databinding.ActivityMainBinding
-import com.example.practical3.databinding.ActivitySecondMainBinding
+import com.example.practical3_1110.databinding.ActivitySecondMainBinding
 class SecondMainActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivitySecondMainBinding

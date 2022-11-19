@@ -1,4 +1,4 @@
-package com.example.practical3
+package com.example.practical3_1110
 
 import android.content.Intent
 import android.os.Bundle
@@ -6,11 +6,8 @@ import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.resources.Compatibility.Api21Impl.inflate
 import androidx.core.view.WindowCompat
-import com.example.practical3.databinding.ActivitySecondMainBinding
-import com.example.practical3.databinding.ActivitySecondMainBinding.inflate
-import com.google.android.material.bottomnavigation.BottomNavigationView
-import androidx.appcompat.widget.Toolbar
-import com.example.practical3.databinding.ActivityMainBinding
+import com.example.practical3_1110.databinding.ActivitySecondMainBinding.inflate
+import com.example.practical3_1110.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

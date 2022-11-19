@@ -1,4 +1,4 @@
-package com.example.practical3
+package com.example.practical3_1110
 
 import org.junit.Test
 
